@@ -4,3 +4,5 @@
 ## Local Development
 
 1. Open index.py in your browser.
+
+2. Read the README.
